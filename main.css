@@ -1,0 +1,11 @@
+.main{
+    background: url('./assets/background.jpg') center;
+}
+.heading{
+    font-weight: 800;
+    font-size: 48px;
+    
+}
+label{
+    font-weight: 600;
+}
